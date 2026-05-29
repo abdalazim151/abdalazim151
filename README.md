@@ -12,7 +12,7 @@
 ---
 
 ## ⚡ About Me
-I am a Software Engineer based in **Cairo, Egypt**, specializing in the **.NET** and **Node.js** ecosystems. My primary focus is on pure feature development—crafting robust, high-concurrency business logic and scalable RESTful APIs. I advocate for pragmatic **Clean Architecture** and **CQRS**, favoring explicit implementations over abstractions like generic repository patterns or AutoMapper to ensure maximum code control and performance.
+I am a Software Engineer based in **Cairo, Egypt**, specializing in the **.NET** and **Node.js** ecosystems. My primary focus is on pure feature development—crafting robust, high-concurrency business logic and scalable RESTful APIs.
 
 Beyond building backend systems, I am deeply involved in competitive programming and algorithmic problem-solving. I also actively mentor upcoming developers, translating complex algorithmic concepts into practical engineering solutions.
 
@@ -39,17 +39,9 @@ Beyond building backend systems, I am deeply involved in competitive programming
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdalazim151&show_icons=true&theme=visual_studio_code" alt="Abdalazim's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalazim151&layout=compact&theme=visual_studio_code" alt="Top Langs" />
-</p>
-
----
 
 ## 📫 Contact Me
 Feel free to reach out for professional opportunities, technical discussions, or just to connect!
 
-* 📧 **Email:** [abdalazim.ahmed20@gmail.com](mailto:abdalazim.ahmed20@gmail.com) *(Click to open Gmail)*
+* 📧 **Email:** [abdalazim.ahmed20@gmail.com](mailto:abdalazim.ahmed20@gmail.com) 
 * 💼 **LinkedIn:** [linkedin.com/in/abdalazim-ahmed](https://linkedin.com/in/abdalazim-ahmed)
